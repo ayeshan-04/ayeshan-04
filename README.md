@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ayeshan 👋</h1>
+<h1 align="center">Hi, I'm Ayeshan</h1>
 
 <p align="center">
-Maths & Computer Science student • building with Python, Java, and the web
+Applied Math & Computer Science student • building with Python, Java, C++, etc.
 </p>
 
 <p align="center">
@@ -16,10 +16,9 @@ Maths & Computer Science student • building with Python, Java, and the web
 
 ### About me
 
-- 🎓 Studying Maths & Computer Science, currently working through Real Analysis, Linear Algebra, Computational/Applied Maths, and Mobile Computing
-- 🔢 Interested in numerical methods, data analysis, and applied mathematics
-- 📱 Also building Android apps as part of mobile computing coursework
-- 🌱 Always picking up something new — currently sharpening my Python and Java
+- 2nd Year in BSc Computer Science and Applied Mathematics
+- Interested in numerical software development, networks, data analysis and applied mathematics
+- Always picking up something new — currently sharpening my Python and Java
 
 ### GitHub stats
 
